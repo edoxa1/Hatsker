@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29324.140
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hatsker", "Hatsker\Hatsker.csproj", "{736163CA-F804-44D1-ABCD-7F3BA782420B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{736163CA-F804-44D1-ABCD-7F3BA782420B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{736163CA-F804-44D1-ABCD-7F3BA782420B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{736163CA-F804-44D1-ABCD-7F3BA782420B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{736163CA-F804-44D1-ABCD-7F3BA782420B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4315361D-ECE2-4AA0-91A6-A244E707CEF1}
+	EndGlobalSection
+EndGlobal
