@@ -30,6 +30,7 @@ namespace Hatsker
         private void button1_Click(object sender, EventArgs e)
         {
             string str = textBox1.Text;
+            this.BackColor = Color.Aqua;
             MessageBox.Show($"Hello {str}","Caution");
         }
     }
